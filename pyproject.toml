@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "phone-directory"
+version = "0.1.0"
+description = ""
+authors = ["Sergey Ninchuk"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pydantic = "^2.6.1"
+pytest = "^8.0.0"
+pytest-cov = "^4.1.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.pytest.ini_options]
+python_files = ["test_*.py", "*_test.py", "tests_*.py", "*_tests.py", "./tests/test_*.py"]
+
+[tool.coverage.report]
+omit = [
+    "manage.py",
+    "tests/*"
+    ]

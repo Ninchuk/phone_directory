@@ -1,0 +1,130 @@
+[
+  {
+    "last_name": "\u0418\u0432\u0430\u043d\u043e\u0432",
+    "first_name": "\u0410\u043b\u0435\u043a\u0441\u0435\u0439",
+    "middle_name": "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u0432\u0438\u0447",
+    "organization": "\u041e\u041e\u041e \u0420\u043e\u0441\u0422\u0435\u0445",
+    "work_phone": "495-123-4567",
+    "personal_phone": "910-555-6789"
+  },
+  {
+    "last_name": "\u041f\u0435\u0442\u0440\u043e\u0432\u0430",
+    "first_name": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0430",
+    "middle_name": "\u0410\u043d\u0434\u0440\u0435\u0435\u0432\u043d\u0430",
+    "organization": "\u0413\u0430\u0437\u041f\u0440\u043e\u043c",
+    "work_phone": "499-987-6543",
+    "personal_phone": "916-777-8899"
+  },
+  {
+    "last_name": "\u0421\u043c\u0438\u0440\u043d\u043e\u0432",
+    "first_name": "\u0414\u043c\u0438\u0442\u0440\u0438\u0439",
+    "middle_name": "\u0421\u0435\u0440\u0433\u0435\u0435\u0432\u0438\u0447",
+    "organization": "\u0421\u0431\u0435\u0440\u0411\u0430\u043d\u043a",
+    "work_phone": "495-111-2222",
+    "personal_phone": "905-333-4444"
+  },
+  {
+    "last_name": "\u041a\u043e\u0437\u043b\u043e\u0432",
+    "first_name": "\u0410\u043d\u0430\u0441\u0442\u0430\u0441\u0438\u044f",
+    "middle_name": "\u041f\u0430\u0432\u043b\u043e\u0432\u043d\u0430",
+    "organization": "\u0420\u043e\u0441\u041d\u0435\u0444\u0442\u044c",
+    "work_phone": "499-444-5555",
+    "personal_phone": "916-666-7777"
+  },
+  {
+    "last_name": "\u0415\u0444\u0438\u043c\u043e\u0432",
+    "first_name": "\u0418\u0440\u0438\u043d\u0430",
+    "middle_name": "\u0410\u043b\u0435\u043a\u0441\u0435\u0435\u0432\u043d\u0430",
+    "organization": "\u0413\u0430\u0437\u041f\u0440\u043e\u043c",
+    "work_phone": "495-777-8888",
+    "personal_phone": "910-999-0000"
+  },
+  {
+    "last_name": "\u0412\u0430\u0441\u043d\u0435\u0446\u043e\u0432\u0430",
+    "first_name": "\u041f\u0430\u0432\u0435\u043b",
+    "middle_name": "\u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u0438\u0447",
+    "organization": "\u041e\u0410\u041e \u0420\u0416\u0414",
+    "work_phone": "495-222-3333",
+    "personal_phone": "916-111-2222"
+  },
+  {
+    "last_name": "\u041c\u043e\u0440\u043e\u0437\u043e\u0432",
+    "first_name": "\u0422\u0430\u0442\u044c\u044f\u043d\u0430",
+    "middle_name": "\u0418\u0432\u0430\u043d\u043e\u0432\u043d\u0430",
+    "organization": "\u041b\u0443\u043a\u043e\u0439\u043b",
+    "work_phone": "499-333-4444",
+    "personal_phone": "905-444-5555"
+  },
+  {
+    "last_name": "\u0421\u043e\u043a\u043e\u043b\u043e\u0432",
+    "first_name": "\u0421\u0435\u0440\u0433\u0435\u0439",
+    "middle_name": "\u0410\u043d\u0430\u0442\u043e\u043b\u044c\u0435\u0432\u0438\u0447",
+    "organization": "\u0421\u0431\u0435\u0440\u0411\u0430\u043d\u043a",
+    "work_phone": "495-555-6666",
+    "personal_phone": "916-666-7777"
+  },
+  {
+    "last_name": "\u041a\u0443\u0437\u043d\u0435\u0446\u043e\u0432\u0430",
+    "first_name": "\u041c\u0430\u043a\u0441\u0438\u043c",
+    "middle_name": "\u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432\u0438\u0447",
+    "organization": "\u041e\u041e\u041e \u0420\u043e\u0441\u0422\u0435\u0445",
+    "work_phone": "499-888-9999",
+    "personal_phone": "910-000-1111"
+  },
+  {
+    "last_name": "\u0418\u0432\u0430\u043d\u043e\u0432\u0430",
+    "first_name": "\u0410\u043d\u043d\u0430",
+    "middle_name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u043d\u0430",
+    "organization": "\u0420\u043e\u0441\u041d\u0435\u0444\u0442\u044c",
+    "work_phone": "495-999-0000",
+    "personal_phone": "905-111-2222"
+  },
+  {
+    "last_name": "\u041f\u0435\u0442\u0440\u043e\u0432",
+    "first_name": "\u0412\u0438\u043a\u0442\u043e\u0440",
+    "middle_name": "\u0418\u0433\u043e\u0440\u0435\u0432\u0438\u0447",
+    "organization": "\u041b\u0443\u043a\u043e\u0439\u043b",
+    "work_phone": "499-000-1111",
+    "personal_phone": "916-222-3333"
+  },
+  {
+    "last_name": "\u0421\u043c\u0438\u0440\u043d\u043e\u0432\u0430",
+    "first_name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440",
+    "middle_name": "\u0410\u0440\u0442\u0435\u043c\u043e\u0432\u0438\u0447",
+    "organization": "\u041e\u0410\u041e \u0420\u0416\u0414",
+    "work_phone": "495-111-2222",
+    "personal_phone": "910-333-4444"
+  },
+  {
+    "last_name": "\u041a\u043e\u0437\u043b\u043e\u0432\u0430",
+    "first_name": "\u0415\u043b\u0435\u043d\u0430",
+    "middle_name": "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u0432\u043d\u0430",
+    "organization": "\u0413\u0430\u0437\u041f\u0440\u043e\u043c",
+    "work_phone": "495-222-3333",
+    "personal_phone": "916-444-5555"
+  },
+  {
+    "last_name": "\u0415\u0444\u0438\u043c\u043e\u0432\u0430",
+    "first_name": "\u0418\u0433\u043e\u0440\u044c",
+    "middle_name": "\u0418\u0432\u0430\u043d\u043e\u0432\u0438\u0447",
+    "organization": "\u0421\u0431\u0435\u0440\u0411\u0430\u043d\u043a",
+    "work_phone": "499-333-4444",
+    "personal_phone": "905-555-6666"
+  },
+  {
+    "last_name": "\u0412\u0430\u0441\u043d\u0435\u0446\u043e\u0432",
+    "first_name": "\u041e\u043b\u044c\u0433\u0430",
+    "middle_name": "\u0410\u043b\u0435\u043a\u0441\u0435\u0435\u0432\u043d\u0430",
+    "organization": "\u041e\u041e\u041e \u0420\u043e\u0441\u0422\u0435\u0445",
+    "work_phone": "495-444-5555",
+    "personal_phone": "916-666-7777"
+  },
+  {
+    "last_name": "\u0418\u0432\u0430\u043d\u043e\u0432",
+    "first_name": "\u0418\u0432\u0430\u043d",
+    "middle_name": "\u0418\u0432\u0430\u043d\u043e\u0432\u0438\u0447",
+    "organization": "\u0418\u0432\u0430\u043d\u043e\u0432",
+    "work_phone": "234-245-2346",
+    "personal_phone": "444-444-4444"
+  }
+]
